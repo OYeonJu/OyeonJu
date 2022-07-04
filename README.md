@@ -10,6 +10,10 @@
   </li>
 </ul>
 
+<h2>📫 Contact me</h2>
+email: dwu0196@gmail.com
+resume : https://www.notion.so/
+
 
 
 
