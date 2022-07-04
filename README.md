@@ -5,7 +5,13 @@
     - Bachelor of Arts degree <br>
     - Major in English, minor in busuiness administration
   </li>
+  <li>
+    🎓 (2021.08 ~ 2022.02) Completion of Java Programmer Course at KH Education Center
+  </li>
 </ul>
+
+
+
 
 
 
