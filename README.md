@@ -1,9 +1,8 @@
-### 👩🏻 About Me
-<hr>
+<h2>👩🏻 About Me</h2>
 <ul>
   <li>
     🎓 (2012.02 ~ 2017.02) Graduated from Dongduk Women's University, Seoul, Korea <br>
-    - Bachelor of Arts degree
+    - Bachelor of Arts degree <br>
     - Major in English, minor in busuiness administration
   </li>
 </ul>
