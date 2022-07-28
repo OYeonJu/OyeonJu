@@ -12,7 +12,6 @@
 
 <h2>📫 Contact me</h2>
 email: dwu0196@gmail.com <br>
-resume : https://www.notion.so/
 
 
 
